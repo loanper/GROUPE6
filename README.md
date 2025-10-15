@@ -1,11 +1,11 @@
 Groupe 6:
-Gabriel Phan - GABRIELpha
-Loan Perrard - loanper
-Quentin Heitz - WatiQuentin
-Arhur Brosseau - ArthuBrrr
-Victor Rouleau - BaptVic78
-Thomas Confolent - Thomas-C06
-Tristan Hauguel - titan760
+Gabriel Phan - GABRIELpha / 
+Loan Perrard - loanper / 
+Quentin Heitz - WatiQuentin / 
+Arhur Brosseau - ArthuBrrr / 
+Victor Rouleau - BaptVic78 / 
+Thomas Confolent - Thomas-C06 / 
+Tristan Hauguel - titan760 / 
 
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
