@@ -1,3 +1,12 @@
+Groupe 6:
+Gabriel Phan - GABRIELpha
+Loan Perrard - loanper
+Quentin Heitz - WatiQuentin
+Arhur Brosseau - ArthuBrrr
+Victor Rouleau - BaptVic78
+Thomas Confolent - Thomas-C06
+Tristan Hauguel - titan760
+
 # Titanic: Predicting Survival - Hackathon Challenge 🚢
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
